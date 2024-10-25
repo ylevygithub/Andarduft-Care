@@ -1,26 +1,28 @@
 {{ define "home-main" }}
-    <h1>Welcome to Andarduft Care</h1>
-    <h4>Your source for the finest troll-approved products.</h4>
 
+<div style="margin: 30px;">
+  <h1>Welcome to Andarduft Care</h1>
+  <h4>Your source for the finest troll-approved products.</h4>
 
-<section class="products">
-    <h2>Our Products</h2>
-    {{ range where .Site.Pages "Section" "products" }}
-        <article>
-            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-            <p>{{ .Params.description }}</p>
-        </article>
-    {{ end }}
-</section>
+  <section class="products">
+      <h2>Our Products</h2>
+      {{ range where .Site.Pages "Section" "products" }}
+          <article>
+              <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+              <p>{{ .Params.description }}</p>
+          </article>
+      {{ end }}
+  </section>
 
-<section class="latest-news">
-    <h2>Latest News</h2>
-    <p> Our last products have just landed and are ready for shipping</p>
-    <p> Don't wait, make us <a href="/contact">a call</a> </p>
-</section>
+  <section class="latest-news">
+      <h2>Latest News</h2>
+      <p> Our last products have just landed and are ready for shipping</p>
+      <p> Don't wait, make us <a href="/contact">a call</a> </p>
+  </section>
 
-<section class="about">
-    <h2>About Us</h2>
-    <p>{{ .Params.description }}</p>
-</section>
+  <section class="about">
+      <h2>About Us</h2>
+      <p>{{ .Params.description }}</p>
+  </section>
+</div>
 {{ end }}
