@@ -1,0 +1,4 @@
+baseURL = 'https://andarduft.com/'
+languageCode = 'en-us'
+title = 'Andarduft Veggie Farm'
+theme = 'ananke'

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ partial "header.html" . }}
+</head>
+<body>
+    {{ partial "navbar.html" . }}
+
+    <main>
+        {{ if eq .Title "Andarduft Care" }}
+            {{ block "home-main" . }}{{ end }}
+        {{ else }}
+            {{ block "main" . }}{{ end }}
+        {{ end }}
+    </main>
+
+    {{ partial "footer.html" . }}
+
+    <!-- Include necessary scripts -->
+    <script src="/js/cookie.min.js"></script>
+    <script src="/js/feather.min.js"></script>
+    <script src="/js/script.min.js"></script>
+</body>
+</html>
