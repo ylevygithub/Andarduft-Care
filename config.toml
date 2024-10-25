@@ -1,4 +1,4 @@
 baseURL = 'https://andarduft.com/'
 languageCode = 'en-us'
 title = 'Andarduft Veggie Farm'
-theme = 'ananke'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
