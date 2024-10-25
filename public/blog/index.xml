@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Andarduft Veggie Farm</title>
-    <link>https://andarduft.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Andarduft Veggie Farm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andarduft.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intense and Fragrant Spices: The Perfume of Andarduft</title>
-      <link>https://andarduft.com/blog/post1/</link>
+      <link>http://localhost:1313/blog/post1/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://andarduft.com/blog/post1/</guid>
+      <guid>http://localhost:1313/blog/post1/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>The essential: The muscle rub of Andarduft</title>
-      <link>https://andarduft.com/blog/post2/</link>
+      <link>http://localhost:1313/blog/post2/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://andarduft.com/blog/post2/</guid>
+      <guid>http://localhost:1313/blog/post2/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
