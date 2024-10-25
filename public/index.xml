@@ -2,88 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andarduft Care on Andarduft Veggie Farm</title>
-    <link>http://localhost:1313/</link>
+    <link>https://andarduft.com/</link>
     <description>Recent content in Andarduft Care on Andarduft Veggie Farm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andarduft.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Intense and Fragrant Spices: The Perfume of Andarduft</title>
-      <link>http://localhost:1313/blog/post1/</link>
+      <title>Our Blogs</title>
+      <link>https://andarduft.com/blog/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post1/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    <item>
-      <title>The essential: The muscle rub of Andarduft</title>
-      <link>http://localhost:1313/blog/post2/</link>
-      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post2/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <guid>https://andarduft.com/blog/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-our-blog-page&#34;&gt;Welcome to our blog page&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;post1&#34;&gt;See Blog Post : The Benefits of Andarduft&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;post2&#34;&gt;See Blog Post : Recipes Using Andarduft&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;post3&#34;&gt;See Blog Post : History and Culture of Andarduft&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://andarduft.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://andarduft.com/about/</guid>
       <description>&lt;h3 id=&#34;about-andarduft-care&#34;&gt;About Andarduft Care&lt;/h3&gt;&#xA;&lt;h4 id=&#34;discover-our-specialized-care-products-made-with-the-mythical-andarduft-plant-for-trolls-our-products-enriched-with-the-fresh-essence-of-the-andarduft-plant-offer-specialized-care-for-trolls&#34;&gt;Discover our specialized care products made with the mythical Andarduft plant for trolls. Our products, enriched with the fresh essence of the Andarduft plant, offer specialized care for trolls.&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Andarduft Essential Muscle Rub</title>
-      <link>http://localhost:1313/products/essential_muscle_rub/</link>
+      <link>https://andarduft.com/products/essential_muscle_rub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/essential_muscle_rub/</guid>
-      <description>&lt;h2 id=&#34;desciption&#34;&gt;Desciption&lt;/h2&gt;&#xA;&lt;h4 id=&#34;perfect-after-a-long-day-of-rock-lifting-this-muscle-rub-combines-the-refreshing-properties-of-andarduft-with-warming-herbs-for-deep-relief&#34;&gt;Perfect after a long day of rock-lifting, this muscle rub combines the refreshing properties of Andarduft with warming herbs for deep relief.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;h4 id=&#34;andarduft-extract-wild-icelandic-thyme-trollberry-oil&#34;&gt;Andarduft extract, wild Icelandic thyme, trollberry oil.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;&#xA;&lt;h4 id=&#34;massage-onto-sore-muscles-as-needed&#34;&gt;Massage onto sore muscles as needed.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;price&#34;&gt;Price&lt;/h2&gt;&#xA;&lt;h4 id=&#34;18-troll-gold-pieces&#34;&gt;18 troll gold pieces&lt;/h4&gt;</description>
+      <guid>https://andarduft.com/products/essential_muscle_rub/</guid>
+      <description>&lt;h2 id=&#34;desciption&#34;&gt;Desciption&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;perfect-after-a-long-day-of-rock-lifting-this-muscle-rub-combines-the-refreshing-properties-of-andarduft-with-warming-herbs-for-deep-relief&#34;&gt;Perfect after a long day of rock-lifting, this muscle rub combines the refreshing properties of Andarduft with warming herbs for deep relief.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;h4 id=&#34;andarduft-extract-wild-icelandic-thyme-trollberry-oil&#34;&gt;Andarduft extract, wild Icelandic thyme, trollberry oil.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;&#xA;&lt;h4 id=&#34;massage-onto-sore-muscles-as-needed&#34;&gt;Massage onto sore muscles as needed.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;price&#34;&gt;Price&lt;/h2&gt;&#xA;&lt;h4 id=&#34;18-troll-gold-pieces&#34;&gt;18 troll gold pieces&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Andarduft Glacier Mist Perfume</title>
-      <link>http://localhost:1313/products/glacier_mist_perfume/</link>
+      <link>https://andarduft.com/products/glacier_mist_perfume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/glacier_mist_perfume/</guid>
+      <guid>https://andarduft.com/products/glacier_mist_perfume/</guid>
       <description>&lt;h2 id=&#34;desciption&#34;&gt;Desciption&lt;/h2&gt;&#xA;&lt;h4 id=&#34;capturing-the-freshness-of-icelands-glacial-air-this-perfume-combines-andarduft-with-wild-icelandic-herbs-leaving-trolls-with-a-subtle-yet-invigorating-fragrance-that-trolls-and-humans-alike-will-notice&#34;&gt;Capturing the freshness of Iceland’s glacial air, this perfume combines Andarduft with wild Icelandic herbs, leaving trolls with a subtle yet invigorating fragrance that trolls and humans alike will notice.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;h4 id=&#34;andarduft-essence-glacier-mist-spruce-needle-oil&#34;&gt;Andarduft essence, glacier mist, spruce needle oil.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;&#xA;&lt;h4 id=&#34;spray-generously-the-scent-lasts-all-day&#34;&gt;Spray generously; the scent lasts all day.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;price&#34;&gt;Price&lt;/h2&gt;&#xA;&lt;h4 id=&#34;30-troll-gold-pieces&#34;&gt;30 troll gold pieces&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Andarduft Minty Breath Elixir</title>
-      <link>http://localhost:1313/products/minty_breath_elixir/</link>
+      <link>https://andarduft.com/products/minty_breath_elixir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/minty_breath_elixir/</guid>
+      <guid>https://andarduft.com/products/minty_breath_elixir/</guid>
       <description>&lt;h2 id=&#34;desciption&#34;&gt;Desciption&lt;/h2&gt;&#xA;&lt;h4 id=&#34;crafted-from-pure-andarduft-leaves-this-elixir-provides-trolls-with-a-burst-of-fresh-icy-breath-for-up-to-24-hours-perfect-for-special-gatherings-or-encounters-with-other-trolls-in-close-quarters&#34;&gt;Crafted from pure Andarduft leaves, this elixir provides trolls with a burst of fresh, icy breath for up to 24 hours. Perfect for special gatherings or encounters with other trolls in close quarters.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;h4 id=&#34;fresh-andarduft-leaves-icelandic-glacier-water-a-hint-of-moss-essence&#34;&gt;Fresh Andarduft leaves, Icelandic glacier water, a hint of moss essence.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;&#xA;&lt;h4 id=&#34;one-drop-per-gallon-of-water-drink-sparingly&#34;&gt;One drop per gallon of water; drink sparingly.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;price&#34;&gt;Price&lt;/h2&gt;&#xA;&lt;h4 id=&#34;15-troll-gold-pieces&#34;&gt;15 troll gold pieces&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Andarduft Skin Soothing Mud Mask</title>
-      <link>http://localhost:1313/products/skin_soothing/</link>
+      <link>https://andarduft.com/products/skin_soothing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/skin_soothing/</guid>
+      <guid>https://andarduft.com/products/skin_soothing/</guid>
       <description>&lt;h2 id=&#34;desciption&#34;&gt;Desciption&lt;/h2&gt;&#xA;&lt;h4 id=&#34;a-rich-mineral-infused-mud-mask-made-from-volcanic-soil-and-andarduft-essence-designed-to-soothe-rough-skin-tighten-pores-and-bring-out-a-natural-rocky-glow&#34;&gt;A rich, mineral-infused mud mask made from volcanic soil and Andarduft essence. Designed to soothe rough skin, tighten pores, and bring out a natural, rocky glow.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;h4 id=&#34;volcanic-soil-andarduft-extract-mountain-spring-water&#34;&gt;Volcanic soil, Andarduft extract, mountain spring water.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;&#xA;&lt;h4 id=&#34;apply-generously-to-the-face-and-neck-rinse-after-1015-minutes&#34;&gt;Apply generously to the face and neck. Rinse after 10–15 minutes.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;price&#34;&gt;Price&lt;/h2&gt;&#xA;&lt;h4 id=&#34;25-troll-gold-pieces&#34;&gt;25 troll gold pieces&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Andarduft Wild Forest Hair Serum</title>
-      <link>http://localhost:1313/products/wild_forest_hair_serum/</link>
+      <link>https://andarduft.com/products/wild_forest_hair_serum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/wild_forest_hair_serum/</guid>
+      <guid>https://andarduft.com/products/wild_forest_hair_serum/</guid>
       <description>&lt;h2 id=&#34;desciption&#34;&gt;Desciption&lt;/h2&gt;&#xA;&lt;h4 id=&#34;this-nourishing-serum-tames-even-the-wildest-troll-manes-adding-a-subtle-minty-scent-that-lingers-made-with-natural-oils-and-the-freshness-of-andarduft-it-keeps-hair-untangled-and-strong-against-rough-icelandic-weather&#34;&gt;This nourishing serum tames even the wildest troll manes, adding a subtle minty scent that lingers. Made with natural oils and the freshness of Andarduft, it keeps hair untangled and strong against rough Icelandic weather.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;h4 id=&#34;andarduft-oil-mountain-birch-sap-lichen-essence&#34;&gt;Andarduft oil, mountain birch sap, lichen essence.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;&#xA;&lt;h4 id=&#34;rub-a-small-amount-between-hands-and-work-through-damp-or-dry-hair&#34;&gt;Rub a small amount between hands and work through damp or dry hair.&lt;/h4&gt;&#xA;&lt;h2 id=&#34;price&#34;&gt;Price&lt;/h2&gt;&#xA;&lt;h4 id=&#34;20-troll-gold-pieces&#34;&gt;20 troll gold pieces&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://andarduft.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://andarduft.com/contact/</guid>
       <description>&lt;h3 id=&#34;phone-number--0468539289&#34;&gt;Phone number : 0468539289&lt;/h3&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Our Products</title>
-      <link>http://localhost:1313/products/</link>
+      <link>https://andarduft.com/products/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/</guid>
-      <description>&lt;h2 id=&#34;organic-andarduft-products&#34;&gt;Organic Andarduft Products&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/products/minty_breath_elixir/&#34;&gt;Andarduft Minty Breath Elixir&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/products/skin_soothing/&#34;&gt;Andarduft Skin Soothing Mud Mask&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/products/wild_forest_hair_serum/&#34;&gt;Andarduft Wild Forest Hair Serum&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/products/glacier_mist_perfume/&#34;&gt;Andarduft Glacier Mist Perfume&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/products/essential_muscle_rub/&#34;&gt;Andarduft Essential Muscle Rub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://andarduft.com/products/</guid>
+      <description>&lt;h2 id=&#34;organic-andarduft-products&#34;&gt;Organic Andarduft Products&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://andarduft.com/products/minty_breath_elixir/&#34;&gt;Andarduft Minty Breath Elixir&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://andarduft.com/products/skin_soothing/&#34;&gt;Andarduft Skin Soothing Mud Mask&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://andarduft.com/products/wild_forest_hair_serum/&#34;&gt;Andarduft Wild Forest Hair Serum&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://andarduft.com/products/glacier_mist_perfume/&#34;&gt;Andarduft Glacier Mist Perfume&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://andarduft.com/products/essential_muscle_rub/&#34;&gt;Andarduft Essential Muscle Rub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

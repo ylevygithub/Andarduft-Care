@@ -2,42 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://andarduft.com/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://andarduft.com/posts/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://andarduft.com/blog/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post1/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+    <loc>https://andarduft.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/post2/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+    <loc>https://andarduft.com/products/essential_muscle_rub/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://andarduft.com/products/glacier_mist_perfume/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/essential_muscle_rub/</loc>
+    <loc>https://andarduft.com/products/minty_breath_elixir/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/glacier_mist_perfume/</loc>
+    <loc>https://andarduft.com/products/skin_soothing/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/minty_breath_elixir/</loc>
+    <loc>https://andarduft.com/products/wild_forest_hair_serum/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/skin_soothing/</loc>
+    <loc>https://andarduft.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/wild_forest_hair_serum/</loc>
+    <loc>https://andarduft.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://andarduft.com/products/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/products/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://andarduft.com/tags/</loc>
   </url>
 </urlset>
